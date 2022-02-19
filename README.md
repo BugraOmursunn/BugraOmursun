@@ -22,4 +22,11 @@
     </b>
   </i> 
 </p>
-I have been developing games professionally since 2015. I have managed to reach more than 20 million players worldwide. I have passionate about software development and architecture,  as well as game development. I am a gamer who likes to develop games.
+<p align="center">
+  <i>
+    <b>
+      I have been developing games professionally since 2015. I have managed to reach more than 20 million players worldwide. I have passionate about software development and architecture,  as well as game development. I am a gamer who likes to develop games.
+    </b>
+  </i> 
+</p>
+
