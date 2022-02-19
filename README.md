@@ -36,7 +36,14 @@
 </p>
 
 <p align="center">
+    <img align="center" src="https://img.shields.io/github/followers/BugraOmursunn?style=social"/>
+    <img align="center" src="https://img.shields.io/github/stars/bugraomursunn?style=social"/>
     <a href="https://www.linkedin.com/in/bugraomursun/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue"/>
     </a>
+    <a href="https://play.google.com/store/apps/dev?id=7696637140094003672">
+    <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white"/>
+    </a>
+    <img align="center" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+    <img align="center" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
