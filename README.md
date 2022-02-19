@@ -6,6 +6,3 @@
 
 
 Dare Mighty Things
-
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?BugraOmursunn&theme=vue
-https://github-readme-stats.vercel.app/api/top-langs/?username=BugraOmursunn&layout=compact&hide=html&theme=synthwave
