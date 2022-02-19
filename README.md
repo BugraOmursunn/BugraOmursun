@@ -1,7 +1,7 @@
 # Hi, I'm Buğra!
 
 ![GitHub followers](https://img.shields.io/github/followers/BugraOmursunn?style=social)
-[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+[![General badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://www.linkedin.com/in/bugraomursun/)
 
 
 <p align=”center”>
