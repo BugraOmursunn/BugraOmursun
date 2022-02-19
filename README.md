@@ -14,6 +14,12 @@
    <img align="center" src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white"/>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/bugraomursunn?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/bugraomursunn?style=social)
+[![General badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/bugraomursun/)
+[![General badge](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7696637140094003672)
+![General badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![General badge](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
 <p align="center">
   <i>
@@ -22,10 +28,10 @@
     </b>
   </i> 
 </p>
+
 <p align="center">
     <b>
       I have been developing games professionally since 2015. I have managed to reach more than 20 million players worldwide. I have passionate about software development and architecture,  as well as game development. I am a gamer who likes to develop games.
     </b>
 </p>
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/bugraomursun?style=social">
