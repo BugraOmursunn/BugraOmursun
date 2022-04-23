@@ -1,6 +1,7 @@
 # Hi, I'm Buğra!
 
 <p align="center">
+    <img align="center" src="https://komarev.com/ghpvc/?username=bugraomursunn&color=dc143c"/>
     <a href="https://www.linkedin.com/in/bugraomursun/">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue"/>
     </a>
