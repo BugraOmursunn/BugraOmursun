@@ -34,6 +34,7 @@
 <!-- <div> This div will not show 
 <p align="center">
    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bugraomursunn&theme=nord_dark" />
+   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bugraomursunn&theme=nord_dark" />
 </p>
 
 <p align="center">
