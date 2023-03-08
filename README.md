@@ -30,8 +30,6 @@
 <p align="center">
     <b>
     I've been a professional game developer since 2015 and have reached over 20 million players worldwide. I'm passionate about software development, architecture, and creating engaging gameplay experiences. As a gamer myself, I take pride in making games that bring joy to people's lives.
-
-One of the things I enjoy most about game development is the constant opportunity for learning and growth. Whether it's staying up-to-date with new technologies or finding creative solutions to programming challenges, there's always something new to explore and discover.
     </b>
 </p>
 
