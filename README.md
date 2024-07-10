@@ -29,7 +29,7 @@
 
 <p align="center">
     <b>
-    I've been a professional game developer since 2015 and have reached over 20 million players worldwide. I'm passionate about software development, architecture, and creating engaging gameplay experiences. As a gamer myself, I take pride in making games that bring joy to people's lives.
+    
     </b>
 </p>
 
